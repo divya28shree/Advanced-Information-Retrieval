@@ -1,5 +1,5 @@
 # Advanced-Information-Retrieval
-
+#  (CSE 586 - SUNY BUFFALO)
 ## Goal:
 The goal of this project is to predict electoral violence in election prone countries.
 
